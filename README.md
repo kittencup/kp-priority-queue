@@ -1,6 +1,6 @@
 [![npm](https://img.shields.io/badge/npm-1.0.0-blue.svg)](https://www.npmjs.com/package/kp-priority-queue)
 [![Bower](https://img.shields.io/badge/bower-1.0.0-red.svg)](https://github.com/kittencup/kp-priority-queue)
-[![build](https://api.travis-ci.org/kittencup/kp-priority-queue.svg)](https://github.com/kittencup/kp-priority-queue)
+[![Build Status](https://travis-ci.org/kittencup/kp-priority-queue.svg?branch=master)](https://travis-ci.org/kittencup/kp-priority-queue)
 # How To Use
 
 
