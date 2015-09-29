@@ -3,8 +3,8 @@ var path = require('path');
 
 module.exports = {
     entry: {
-        'KpLocalStorage':'./src/PriorityQueue.js',
-        'KpLocalStorage.min':'./src/PriorityQueue.js'
+        'KpPriorityQueue':'./src/PriorityQueue.js',
+        'KpPriorityQueue.min':'./src/PriorityQueue.js'
     },
     output: {
         filename: './dist/[name].js',
